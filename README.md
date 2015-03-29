@@ -13,9 +13,6 @@ work (i.e. ladders and fences). Some stairs will be converted to sloping blocks.
 A major caveat with the conversion process is a cube in Minecraft is 1m whereas a cube in Space Engineers is 2.5m, so everything
 will be ALOT bigger.
 
-Things to do still:
-  Allow changing of output directory
-  Add support for more blocks
-  figure out how to use git
+Things to do still: Allow changing of output directory, Add support for more blocks, figure out how to use git
   
 tl;dr: Download dist folder, drag schematics on to dragOnMe.bat
